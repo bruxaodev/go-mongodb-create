@@ -1,4 +1,4 @@
-module github/bruxaodev/go-mongo-create
+module github.com/bruxaodev/go-mongo-create
 
 go 1.25.1
 
