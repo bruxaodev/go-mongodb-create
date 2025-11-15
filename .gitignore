@@ -1,0 +1,24 @@
+# Binários
+go-db-create
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de teste
+*.test
+*.out
+
+# Dependências
+vendor/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Outros
+.DS_Store
